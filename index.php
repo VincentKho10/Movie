@@ -27,6 +27,7 @@ if(empty($_SESSION["logged_as"])){
                 break;
         }
     ?>
+test
 </body>
 
 </html>
